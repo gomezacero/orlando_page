@@ -5,21 +5,21 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
   <url>
-    <loc>https://orlando-rojas.netlify.app/</loc>
+    <loc>https://orlandorojasrodriguez.com/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://orlando-rojas.netlify.app/contact.html</loc>
+    <loc>https://orlandorojasrodriguez.com/contact.html</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://orlando-rojas.netlify.app/privacy-policy.html</loc>
+    <loc>https://orlandorojasrodriguez.com/privacy-policy.html</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
